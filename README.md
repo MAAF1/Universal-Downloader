@@ -7,8 +7,8 @@ Universal Downloader is a versatile tool designed to streamline the process of d
 Before installing Universal Downloader, ensure that you have Python 3.10.0 or later installed on your system. If not, you can download it from the official Python website. After installing Python, you can clone the repository and run the main script.
 
 ## Usage
-### Downloading Files
-Enter the URL of the file you wish to download.
+### Downloading Files 
+Enter the URL of the file/folder you wish to download from google drive.
 
 ### Downloading Videos or Playlists from YouTube
 Enter the URL of the video or playlist you wish to download.
